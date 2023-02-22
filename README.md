@@ -7,28 +7,28 @@
 This application will allow for the user to view, update, delete, create, and favorite their NFL teams in whatever sequence they want. 
 
 # Component Map
-######Header
-
+- Header
+-----
 - Header Title (Changes with Section)
 - Nav Buttons
 - Home
 - New Team Post
 - Favorites Button
 - Team Index Page
-
-######Team Card
+----
+- Team Card
 - Delete Button
 - More Details Button
 - Bullet points with slight details
 - Team Show Page
-
-######Home button
-######Add to Favorites Button
-######Details area
-######Team Update/New Page
-
-####Title
-######Form
+---
+- Home button
+- Add to Favorites Button
+- Details area
+- Team Update/New Page
+---
+- Title
+- Form
 - Input - Team
 - Input - city
 - Input - state
