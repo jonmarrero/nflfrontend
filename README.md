@@ -2,7 +2,7 @@
 
 ### Unit 4 Project, Full Python/Django REACT CRUD Application of a NFL Team Tracker
 
-#Description
+# Description
 
 This application will allow for the user to view, update, delete, create, and favorite their NFL teams in whatever sequence they want. 
 
@@ -37,19 +37,19 @@ This application will allow for the user to view, update, delete, create, and fa
 - Input - Fav player
 - Input - Submit
 
-#Technologies Used
+# Technologies Used
 - HTML
 - CSS
 - Javascript
 - React JS
 - React Router DOM
 
-#Currently Contains:
+# Currently Contains:
 - Link created for deployment on Render
 - Wireframe
 
-#Initial Wireframe Created
+# Initial Wireframe Created
 - https://www.figma.com/file/ei1rR1Hg1WmiGxqC4OYZ23/Untitled?node-id=0%3A1&t=RWDb9XUCIL5z6eAB-0
 
-#Trello Board
+# Trello Board
 - https://trello.com/b/1iKw0tsO/nfl-team-tracker
